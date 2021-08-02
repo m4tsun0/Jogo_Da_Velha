@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(6, 124, 124);
+    text-align: center;
+}
+
+button{
+    margin-top: 10px;
+    width: 150px;
+    height: 30px;
+    background: #eee;
+    cursor: pointer;
+}
+
+.title, .texto, .js, .vd{
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.quadrado{
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.jogador, .vencedor{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
